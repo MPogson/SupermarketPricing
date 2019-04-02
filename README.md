@@ -1,0 +1,2 @@
+# SupermarketPricing
+kata setup 
